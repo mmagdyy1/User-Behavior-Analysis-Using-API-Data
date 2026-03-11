@@ -9,10 +9,11 @@ A data analysis project that fetches user data from the [DummyJSON API](https://
 
 ```
 📦 user-analysis/
-├── read.py          # Fetches data from API and saves to CSV
-├── main.py          # Full analysis, cleaning, and visualizations
-├── users.csv        # Generated dataset (100 users)
-├── README.md        # Project documentation
+├── read.py              # Fetches data from API and saves to CSV
+├── main.py              # Full analysis, cleaning, and visualizations
+├── analysis.ipynb       # Jupyter Notebook with full analysis & visualizations
+├── users.csv            # Generated dataset (100 users)
+├── README.md            # Project documentation
 └── plots/
     ├── plot1_age_distribution.png
     ├── plot2_avg_age_by_gender.png
