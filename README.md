@@ -6,8 +6,7 @@ A data analysis project that fetches user data from the [DummyJSON API](https://
 📓 For full analysis, code walkthrough, and visualizations, check the [Jupyter Notebook](analysis.ipynb).
 
 DAY1 & DAY2 are available in another repository.
-You can access them here:  
-🔗[ data-analysis-using-python](https://github.com/mmagdyy1/data-analysis-using-python)
+You can access them here:  🔗[ data-analysis-using-python](https://github.com/mmagdyy1/data-analysis-using-python)
 
 ## 📁 Project Structure
 
